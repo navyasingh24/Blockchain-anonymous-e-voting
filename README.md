@@ -8,7 +8,7 @@ This project implements a **permissioned blockchain-based e-voting system** with
 
 ## Features
 
-- **Permissioned Blockchain** – Only authorized nodes participate in block validation.
+- ** A Permissioned Blockchain** – Only authorized nodes participate in block validation.
 - **Commit–Reveal Scheme** – Ensures votes remain private until the reveal phase.
 - **Double Voting Prevention** – Each voter can cast only one valid vote.
 - **End-to-End Verifiability** – Every vote is recorded transparently on-chain.
